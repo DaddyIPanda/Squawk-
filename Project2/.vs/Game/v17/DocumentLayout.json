@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Level1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Level1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Level1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Level1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\KeyboardController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\KeyboardController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\KeyboardController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECBB0937-D80F-459C-8617-BD8DD52774C5}|Project2\\Project2.vcxproj|solutionrelative:Project2\\KeyboardController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Cashe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project2\\Cashe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\\u0421ashe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project2\\\u0421ashe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cashe.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Cashe.h",
+              "RelativeDocumentMoniker": "Project2\\Cashe.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Cashe.h",
+              "RelativeToolTip": "Project2\\Cashe.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T17:16:16.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "\u0421ashe.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\\u0421ashe.cpp",
+              "RelativeDocumentMoniker": "Project2\\\u0421ashe.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\\u0421ashe.cpp",
+              "RelativeToolTip": "Project2\\\u0421ashe.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T17:16:00.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Obstacle.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Obstacle.cpp",
+              "RelativeDocumentMoniker": "Project2\\Obstacle.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Obstacle.cpp",
+              "RelativeToolTip": "Project2\\Obstacle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T08:33:48.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Music.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Music.cpp",
+              "RelativeDocumentMoniker": "Project2\\Music.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Music.cpp",
+              "RelativeToolTip": "Project2\\Music.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T13:53:34.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Menu.cpp",
+              "RelativeDocumentMoniker": "Project2\\Menu.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Menu.cpp",
+              "RelativeToolTip": "Project2\\Menu.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFAAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T13:52:54.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Game.cpp",
+              "RelativeDocumentMoniker": "Project2\\Game.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Game.cpp",
+              "RelativeToolTip": "Project2\\Game.cpp",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAkwPoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T13:53:01.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KeyboardController.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\KeyboardController.cpp",
+              "RelativeDocumentMoniker": "Project2\\KeyboardController.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\KeyboardController.cpp",
+              "RelativeToolTip": "Project2\\KeyboardController.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T14:44:46.967Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Map.cpp",
+              "RelativeDocumentMoniker": "Project2\\Map.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Map.cpp",
+              "RelativeToolTip": "Project2\\Map.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T13:56:07.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Obstacle.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Obstacle.h",
+              "RelativeDocumentMoniker": "Project2\\Obstacle.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Obstacle.h",
+              "RelativeToolTip": "Project2\\Obstacle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T08:34:25.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Player.cpp",
+              "RelativeDocumentMoniker": "Project2\\Player.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Player.cpp",
+              "RelativeToolTip": "Project2\\Player.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAArwIAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T15:41:03.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Level1.cpp",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Level1.cpp",
+              "RelativeDocumentMoniker": "Project2\\Level1.cpp",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Level1.cpp",
+              "RelativeToolTip": "Project2\\Level1.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T21:15:21.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Level1.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Level1.h",
+              "RelativeDocumentMoniker": "Project2\\Level1.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Level1.h",
+              "RelativeToolTip": "Project2\\Level1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T21:15:08.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Menu.h",
+              "RelativeDocumentMoniker": "Project2\\Menu.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Menu.h",
+              "RelativeToolTip": "Project2\\Menu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T20:21:15.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KeyboardController.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\KeyboardController.h",
+              "RelativeDocumentMoniker": "Project2\\KeyboardController.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\KeyboardController.h",
+              "RelativeToolTip": "Project2\\KeyboardController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T16:27:37.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Player.h",
+              "RelativeDocumentMoniker": "Project2\\Player.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Player.h",
+              "RelativeToolTip": "Project2\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T15:41:01.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Map.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Map.h",
+              "RelativeDocumentMoniker": "Project2\\Map.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Map.h",
+              "RelativeToolTip": "Project2\\Map.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T13:56:27.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Music.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Music.h",
+              "RelativeDocumentMoniker": "Project2\\Music.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Music.h",
+              "RelativeToolTip": "Project2\\Music.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T13:54:32.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Game.h",
+              "RelativeDocumentMoniker": "Project2\\Game.h",
+              "ToolTip": "C:\\Users\\57vob\\Documents\\C\u002B\u002B\\1.Project_Game\\Project2\\Project2\\Game.h",
+              "RelativeToolTip": "Project2\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T13:53:00.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
